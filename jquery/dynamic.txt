@@ -1,0 +1,4 @@
+/node_modules/todomvc-common/base.js|0
+/node_modules/jquery/dist/jquery.js|0
+/node_modules/handlebars/dist/handlebars.js|0
+/node_modules/director/build/director.js|0

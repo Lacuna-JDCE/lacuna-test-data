@@ -1,0 +1,12 @@
+/*global angular */
+/*jshint unused:false */
+'use strict';
+
+/**
+ * The main TodoMVC app module
+ *
+ * @type {angular.Module}
+ */
+var todomvc = angular.module('todomvc', ['firebase']);
+
+todomvc.filter('todoFilter', function(){___jdce_logger("/js/app.js", 0);});
